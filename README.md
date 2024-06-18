@@ -1,5 +1,5 @@
 ## Sourabh Kamat's Portfolio
-Welcome to ### Sourabh Kamat's portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and contact information. The website is designed to be interactive, visually appealing, and easy to navigate.
+Welcome to Sourabh Kamat's portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and contact information. The website is designed to be interactive, visually appealing, and easy to navigate.
 
 ## Table of Contents
 -- Sourabh Kamat's Portfolio
